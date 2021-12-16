@@ -10,6 +10,7 @@
 
 | | |
 | ------ | ------ |
+| Dimension | **10cmx10cm** |
 | Hashrate | **± 2KH/s** |
 | Power | unknown |
 | Profit | unknown |
