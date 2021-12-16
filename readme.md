@@ -31,6 +31,11 @@
 > LED and Resistor using SMD 0805
 
 ### a cup of coffee for me 
-> Duino Coin: **ruriazz**
-> BTC: **1JbjSQozYew4Bne84bTqkZdv18zmACiQR8**
-> LTC: **MCf9jZJb9ZSjc5cYv8pHPsnVECkmZQktrL**
+> Duino Coin:
+**ruriazz**
+
+> BTC:
+**1JbjSQozYew4Bne84bTqkZdv18zmACiQR8**
+
+> LTC:
+**MCf9jZJb9ZSjc5cYv8pHPsnVECkmZQktrL**
